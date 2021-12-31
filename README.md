@@ -17,7 +17,7 @@
 </p>
 
 ## About
-The **Telegram Message Bot** 💰 helps you to manage big groups and make your groups full of active members.
+The **Telegram Message Bot** helps you to manage big groups and make your groups full of active members.
 
 If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenurseone). 
 
