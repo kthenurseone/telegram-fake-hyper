@@ -31,11 +31,12 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 
 
 ## Installation
-1) Get fake numbers
+1) Get numbers from the sms services
 2) Create api with numbers
 3) Add numbers to the bot
 4) Login numbers via bot
 5) That's all you can use it.
+I will help to install the program.
 
 
 ## Images
