@@ -17,7 +17,7 @@
 </p>
 
 ## About
-The **Telegram Message Bot** helps you to manage big groups and make your groups full of active members.
+The **Telegram Fake Hyper Bot** helps you to make fake hypes on your channel.
 
 If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenurseone). 
 
