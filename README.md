@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtu.be/5GEjW13YeUI" target="_blank"><img src="https://github.com/kthenurseone/telegram-message-bot/blob/main/video_kapak.png?raw=true"></a></p>
+<p align="center"><a href="https://youtu.be/C7k-6_OH5uM" target="_blank"><img src="https://github.com/kthenurseone/telegram-message-bot/blob/main/video_kapak.png?raw=true"></a></p>
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/python-3.8-blue.svg?style=plastic" alt="Python version"></a>
@@ -46,4 +46,4 @@ I will help to install the program.
 
 
 ## Youtube
-Please watch [youtube video](https://youtu.be/5GEjW13YeUI) for more information and demo. If you are interested you can dm me : [@kthenurseone](https://t.me/kthenurseone)
+Please watch [youtube video](https://youtu.be/C7k-6_OH5uM) for more information and demo. If you are interested you can dm me : [@kthenurseone](https://t.me/kthenurseone)
